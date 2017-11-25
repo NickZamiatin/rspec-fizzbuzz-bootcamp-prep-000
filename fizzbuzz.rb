@@ -5,3 +5,6 @@ describe "fizzbuzz" do
     expect(fizz_3).to eq("Fizz")
   end
 end
+describe "The Thing We're Testing" do
+  # Specifications, that is, specific test examples, go here.
+end
