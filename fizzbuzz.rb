@@ -8,3 +8,5 @@ end
 describe "The Thing We're Testing" do
   # Specifications, that is, specific test examples, go here.
 end
+fizzbuzz
+  returns "Fizz" when the number is divisible by 3
